@@ -1,0 +1,1 @@
+This is a practice of examples on 'The Type Astronaut's Guide to Shapeless' book, the link is https://underscore.io/books/shapeless-guide/
